@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.name-highlight{
+    color: rgba(233, 13, 49, 0.733);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgba(233, 13, 49, 0.733);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.Bio{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+  
+  .row {
+    display: flex;
+  }
+  
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  .Work-area{
+      background-image: url(images/footer-bg.png);
+      background-repeat: no-repeat;
+      background-position: left;
+  }
+  h5{
+      color:white;
+      background-color: palevioletred;
+      height: 90px;
+      width: 500px;
+  }
+  h5{
+      text-align: center;
+  }
+  footer p{
+      text-align: center;
+      font-size: 12px;
+  }
+  .client{
+      background-image: url(images/latest-work-bg.png);
+      background-repeat: no-repeat;
+      background-position: right;
+  }
+ 
+  
